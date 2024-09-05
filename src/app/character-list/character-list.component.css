@@ -1,0 +1,6 @@
+.character-list{
+    display: flex;
+    flex-direction: col;
+    flex-wrap: wrap;
+    justify-content: center;
+}
